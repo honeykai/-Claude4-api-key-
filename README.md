@@ -9,13 +9,16 @@
 
 # 🚀 快速导航 🚀
 
->>[1.1 免费API KEY申请]([https://free.yunwu.ai](https://yibuapi.apifox.cn/6191621m0))
+>[一✨ 免费资源](https://yibuapi.com)
+>
+>>[1.1 免费API KEY申请](https://yibuapi.apifox.cn/6191621m0)
 >>
 >>[1.2 镜像服务]([https://chat.yibuapi.com/list)
 >
 >>[2.2 Python示例代码](https:yibuapi.apifox.cn/6448294m0)
 >
 >[三✨ 账户管理](https://query.yibuapi.com/)
+>
 >>[3.1 购买API KEY]([https://yibuapi.com/)
 >>
 >>[3.2 查询余额及明细]([https://query.yibuapi.com/)
@@ -39,7 +42,7 @@
 
 # 🚀 快速开始 🚀
 ## 一🌟 购买APIKEY
-1. 访问官网 [yunwu.ai](https://yibuapi.com) 注册账号
+1. 访问官网 [yibuapi.com](https://yibuapi.com) 注册账号
 2. 在线充值，1元起充
 3. 自动生成APIKEY，立即使用
 
